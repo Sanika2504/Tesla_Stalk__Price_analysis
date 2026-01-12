@@ -10,4 +10,4 @@ Predict short-term future prices (1, 5, 10 days)
 Deploy the model as a web application
 
 Skills & Technologies Used :
-Python ,Data Cleaning & Preprocessing ,Exploratory Data Analysis (EDA), Time-Series Analysis ,Deep Learning ,SimpleRNN ,LSTM ,TensorFlow / Keras ,scikit-learn ,Streamlit (Deployment) ,Git & GitHub
+Python ,Data Cleaning & Preprocessing ,Exploratory Data Analysis (EDA), Time-Series Analysis ,Deep Learning ,SimpleRNN ,LSTM ,TensorFlow / Keras ,scikit-learn ,Streamlit (Deployment)
